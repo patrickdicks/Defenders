@@ -1,6 +1,6 @@
 # Defenders
 
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![Defenders](https://github.com/patrickdicks/Defenders/blob/master/server/public/assets/img/Title.png)
 
 ## About:
 Defenders is an HTML5 game which utilizes the Phaser 3 game framework.
