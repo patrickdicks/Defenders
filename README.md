@@ -1,7 +1,6 @@
 # Defenders
 
 # About:
-```
 Defenders is an HTML5 game which utilizes the Phaser 3 game framework.
 
 The game place in space where our hero ship is defending their homeworld from invading enemies. 
@@ -16,7 +15,6 @@ The game consists of three levels:
     as they retreat back to their home planet.
     3. Level 3 - “Alien World” - Our hero is assaulting the enemy homeworld in hopes of further 
     damaging their forces and ensuring they do not return to the hero’s home planet.
-```
 
 # Gameplay
 ```
