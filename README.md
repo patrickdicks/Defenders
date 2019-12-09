@@ -16,7 +16,10 @@ The game consists of three levels:
     as they retreat back to their home planet.
     3. Level 3 - “Alien World” - Our hero is assaulting the enemy homeworld in hopes of further 
     damaging their forces and ensuring they do not return to the hero’s home planet.
+```
 
+# Gameplay
+```
 In this Sci-Fi based tower defense game, the user plays from the perspective of our hero ship. 
 The player will be able to move the ship left/right and fire their laser weapon using the “WAD” 
 keys on their keyboard. 
