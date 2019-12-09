@@ -1,5 +1,7 @@
 # Defenders
 
+![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+
 ## About:
 Defenders is an HTML5 game which utilizes the Phaser 3 game framework.
 
