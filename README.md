@@ -9,18 +9,18 @@ blended together add a level of complexity not found in traditional
 games of either genre.
 
 The game consists of three levels:  
-    1. Level 1 - “Homeworld” - Our hero is defending their homeworld from the evil alien race as 
+    Level 1 - “Homeworld” - Our hero is defending their homeworld from the evil alien race as 
     they descend upon the planet.  
-    2. Level 2 - Deep Space” - Our hero has driven the aliens back into space and is pursuing them 
+    Level 2 - Deep Space” - Our hero has driven the aliens back into space and is pursuing them 
     as they retreat back to their home planet.  
-    3. Level 3 - “Alien World” - Our hero is assaulting the enemy homeworld in hopes of further 
+    Level 3 - “Alien World” - Our hero is assaulting the enemy homeworld in hopes of further 
     damaging their forces and ensuring they do not return to the hero’s home planet.
 
 # Gameplay
 ```
 In this Sci-Fi based tower defense game, the user plays from the perspective of our hero ship. 
 The player will be able to move the ship left/right and fire their laser weapon using the “WAD” 
-keys on their keyboard. 
+keys on their keyboard.
 
 The enemies will spawn in waves, which must be defeated before the player can advance to the next 
 stage. Throughout the game, the player will encounter stronger and stronger enemies who require 
@@ -32,9 +32,7 @@ through all three stages, then they will be victorious.
 ```
 
 ## Demo:
-```
 https://defenders.herokuapp.com
-```
 
 ## Installation:
 ```
