@@ -161,7 +161,6 @@ class BasicShip extends Entity {
     constructor(scene, x, y) {
         super(scene, x, y, 'sprEnemy2', 'BasicShip');
         this.play('sprEnemy2');
-
         this.body.velocity.y = 100;
     }
 }
@@ -170,7 +169,6 @@ class SpeederShip extends Entity {
     constructor(scene, x, y) {
         super(scene, x, y, 'sprEnemy1', 'SpeederShip');
         this.play('sprEnemy1');
-
         this.body.velocity.y = 200;
     }
 }
@@ -179,7 +177,6 @@ class GunnerShip extends Entity {
     constructor(scene, x, y) {
         super(scene, x, y, 'sprEnemy0', 'GunnerShip');
         this.play('sprEnemy0');
-
         this.body.velocity.y = 75;
 
         this.shootTimer = this.scene.time.addEvent({
@@ -210,7 +207,6 @@ class GunnerShip extends Entity {
 class Turret1 extends Entity {
     constructor(scene, x, y) {
         super(scene, x, y, 'probe1', 'Turret');
-
         this.setData('isShooting', false);
         this.setData('timerShootDelay', 30);
         this.setData('timerShootTick', this.getData('timerShootDelay') - 1);
@@ -267,9 +263,9 @@ class Turret1 extends Entity {
                     this.scene.playerLasers.add(laser);  
                     this.scene.playerLasers.add(laser2);   
                     this.scene.playerLasers.add(laser3);                      
-                    laser.body.velocity.x = -30
-                    laser2.body.velocity.x = 0       
-                    laser3.body.velocity.x = 30                       
+                    laser.body.velocity.x = -30;
+                    laser2.body.velocity.x = 0;    
+                    laser3.body.velocity.x = 30;                     
                     
                     this.scene.sfx.laser.play();
                     this.setData('timerShootTick', 0);                        
@@ -338,9 +334,9 @@ class Turret2 extends Entity {
                     this.scene.playerLasers.add(laser);  
                     this.scene.playerLasers.add(laser2);   
                     this.scene.playerLasers.add(laser3);                      
-                    laser.body.velocity.x = -30
-                    laser2.body.velocity.x = 0       
-                    laser3.body.velocity.x = 30                       
+                    laser.body.velocity.x = -30;
+                    laser2.body.velocity.x = 0;    
+                    laser3.body.velocity.x = 30;                   
                     
                     this.scene.sfx.laser.play();
                     this.setData('timerShootTick', 0);                        
@@ -409,9 +405,9 @@ class Turret3 extends Entity {
                     this.scene.playerLasers.add(laser);  
                     this.scene.playerLasers.add(laser2);   
                     this.scene.playerLasers.add(laser3);                      
-                    laser.body.velocity.x = -30
-                    laser2.body.velocity.x = 0       
-                    laser3.body.velocity.x = 30                       
+                    laser.body.velocity.x = -30;
+                    laser2.body.velocity.x = 0;    
+                    laser3.body.velocity.x = 30;                     
                     
                     this.scene.sfx.laser.play();
                     this.setData('timerShootTick', 0);                        
@@ -441,7 +437,7 @@ class ChaserShip extends Entity {
 
     update() {
         if (!this.getData('isDead') && this.scene.player) { 
-            var target = this.scene.player
+            var target = this.scene.player;
             var closest = 10000;
         
             if (this.scene.towers.getChildren().length > 1) {
