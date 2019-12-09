@@ -3,7 +3,7 @@
 ![Defenders](https://github.com/patrickdicks/Defenders/blob/master/server/public/assets/img/Title.png)
 
 ## Demo:
-https://defenders.herokuapp.com
+https://defenders-game.herokuapp.com/
 
 ## About:
 Defenders is an HTML5 game which utilizes the Phaser 3 game framework.
