@@ -2,6 +2,9 @@
 
 ![Defenders](https://github.com/patrickdicks/Defenders/blob/master/server/public/assets/img/Title.png)
 
+## Demo:
+https://defenders.herokuapp.com
+
 ## About:
 Defenders is an HTML5 game which utilizes the Phaser 3 game framework.
 
@@ -30,9 +33,6 @@ the use of upgraded weapons.
 There are “towers” located at the bottom of the screen the player must protect. If at least half of 
 them are destroyed, it’s GAME OVER. If the player manages to protect these towers and their own ship 
 through all three stages, then they will be victorious.
-
-## Demo:
-https://defenders.herokuapp.com
 
 ## Installation:
 ```
