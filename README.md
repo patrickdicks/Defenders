@@ -8,11 +8,11 @@ Defenders is a unique combination of tower defense and space shooting style game
 blended together add a level of complexity not found in traditional 
 games of either genre.
 
-The game consists of three levels:
+The game consists of three levels:  
     1. Level 1 - “Homeworld” - Our hero is defending their homeworld from the evil alien race as 
-    they descend upon the planet.
+    they descend upon the planet.  
     2. Level 2 - Deep Space” - Our hero has driven the aliens back into space and is pursuing them 
-    as they retreat back to their home planet.
+    as they retreat back to their home planet.  
     3. Level 3 - “Alien World” - Our hero is assaulting the enemy homeworld in hopes of further 
     damaging their forces and ensuring they do not return to the hero’s home planet.
 
