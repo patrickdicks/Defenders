@@ -1,0 +1,48 @@
+/*//////////////////////////////////////////////////////////////////
+[ FONTS ]*/
+@font-face {
+    font-family: defenders;
+    src: url('../fonts/Rear_Defender.ttf');
+}
+
+/*---------------------------------------------*/
+body {
+    background-image: url("../assets/img/background.jpg");
+    background-color: #000000;
+}
+/*---------------------------------------------*/
+
+/*---------------------------------------------*/
+canvas {
+    border: 1px solid #999999;
+    border-radius: 5px;
+}
+/*---------------------------------------------*/
+
+/*---------------------------------------------*/
+#footer {
+    bottom: 0;
+    height: 2rem;  /* Footer height */
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+/*---------------------------------------------*/
+
+/*//////////////////////////////////////////////////////////////////
+[ GAME ]*/
+.game-header {
+    background-image: url("../img/background.jpg");
+    border-bottom: 2px solid #ffffff;
+    height: 85px;
+    overflow: auto;
+}
+
+.brand {
+    color: #ffffff;
+    font-family: defenders;
+    font-size: 32px;
+    margin-bottom: 17.5px;
+    margin-top: 17.5px;
+    text-align: center;
+}
