@@ -1,6 +1,6 @@
 # Defenders
 
-# About:
+## About:
 Defenders is an HTML5 game which utilizes the Phaser 3 game framework.
 
 The game place in space where our hero ship is defending their homeworld from invading enemies. 
@@ -8,16 +8,15 @@ Defenders is a unique combination of tower defense and space shooting style game
 blended together add a level of complexity not found in traditional 
 games of either genre.
 
-The game consists of three levels:  
-    Level 1 - “Homeworld” - Our hero is defending their homeworld from the evil alien race as 
+* The game consists of three levels:  
+    * Level 1 - “Homeworld” - Our hero is defending their homeworld from the evil alien race as 
     they descend upon the planet.  
-    Level 2 - Deep Space” - Our hero has driven the aliens back into space and is pursuing them 
+    * Level 2 - Deep Space” - Our hero has driven the aliens back into space and is pursuing them 
     as they retreat back to their home planet.  
-    Level 3 - “Alien World” - Our hero is assaulting the enemy homeworld in hopes of further 
+    * Level 3 - “Alien World” - Our hero is assaulting the enemy homeworld in hopes of further 
     damaging their forces and ensuring they do not return to the hero’s home planet.
 
-# Gameplay
-```
+## Gameplay
 In this Sci-Fi based tower defense game, the user plays from the perspective of our hero ship. 
 The player will be able to move the ship left/right and fire their laser weapon using the “WAD” 
 keys on their keyboard.
@@ -29,7 +28,6 @@ the use of upgraded weapons.
 There are “towers” located at the bottom of the screen the player must protect. If at least half of 
 them are destroyed, it’s GAME OVER. If the player manages to protect these towers and their own ship 
 through all three stages, then they will be victorious.
-```
 
 ## Demo:
 https://defenders.herokuapp.com
