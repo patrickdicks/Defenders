@@ -20,6 +20,12 @@ games of either genre.
     as they retreat back to their home planet.  
     * Level 3 - “Alien World” - Our hero is assaulting the enemy homeworld in hopes of further 
     damaging their forces and ensuring they do not return to the hero’s home planet.
+    
+* Technologies Used:
+   * CSS
+   * HTML
+   * JavaScript
+   * Phaser 3
 
 ## Gameplay
 In this Sci-Fi based tower defense game, the user plays from the perspective of our hero ship. 
