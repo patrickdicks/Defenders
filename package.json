@@ -1,7 +1,7 @@
 {
   "name": "defenders",
   "version": "1.0.0",
-  "description": "",
+  "description": "HTML5 game which utilizes the Phaser 3 game framework",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
