@@ -1,6 +1,6 @@
 # Defenders
 
-![Defenders](https://github.com/patrickdicks/Defenders/blob/master/server/public/assets/img/Title.png)
+![Defenders](https://github.com/patrickdicks/Defenders/blob/master/Defenders.png)
 
 ## Demo:
 https://defenders-game.herokuapp.com/
