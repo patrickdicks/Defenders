@@ -1,9 +1,9 @@
 # Defenders
 
-![Defenders](https://github.com/patrickdicks/Defenders/blob/master/Defenders.png)
-
 ## Demo:
-https://defenders-game.herokuapp.com/
+[Defenders](https://defenders-game.herokuapp.com/)
+
+![Defenders](https://github.com/patrickdicks/Defenders/blob/master/pics/Defenders.gif)
 
 ## About:
 Defenders is an HTML5 game which utilizes the Phaser 3 game framework.
@@ -40,7 +40,7 @@ There are “towers” located at the bottom of the screen the player must prote
 them are destroyed, it’s GAME OVER. If the player manages to protect these towers and their own ship 
 through all three stages, then they will be victorious.
 
-## Installation:
+## Install:
 ```
 npm install
 ```
